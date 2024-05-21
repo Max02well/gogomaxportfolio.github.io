@@ -1,2 +1,1 @@
-# gogomaxportfolio.github.io
-My official portfolio
+# Maxwell Gogo Portfolio
